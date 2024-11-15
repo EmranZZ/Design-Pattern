@@ -18,7 +18,7 @@ public class ComputerBuilder {
         this.isBluetoothEnabled=isBluetoothEnabled;
         return this;
     }
-    public Computer build(){
-        return new Computer(this);
-    }
+//    public Computer build(){
+//        return new Computer(this);
+//    }
 }
